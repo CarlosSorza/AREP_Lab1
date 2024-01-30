@@ -16,32 +16,11 @@ Este laboratorio se centra en la implementación de un servidor Web, el cual sir
 
 
 ## Uso
-1. [Explicar cómo ejecutar el laboratorio].
-2. [Proporcionar ejemplos y casos de uso].
-3. [Instrucciones adicionales para la interacción].
+1. Estando en Firefox en el buscador ponemos http://localhost:350000
+    ![Alt text](image-1.png)
+2. Realizamos la búsqueda colocando el nombre de la película, posteriormente dándole clic al botón submit
+    ![Alt text](image-2.png)
+    ![Alt text](image-3.png)
+3. Búsqueda de película ya buscada.
+    ![Alt text](image-4.png)
 
-## Contribuciones
-Agradecemos contribuciones. Si deseas contribuir, sigue estos pasos:
-1. Haz un fork del repositorio.
-2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
-3. Realiza cambios y haz commit (`git commit -am 'Añadir nueva característica'`).
-4. Haz push a la rama (`git push origin feature/nueva-caracteristica`).
-5. Abre una solicitud de extracción.
-
-## Directorios Importantes
-- `/src`: Contiene el código fuente del laboratorio.
-- `/docs`: Documentación adicional o archivos importantes.
-
-## Notas Adicionales
-- [Cualquier información importante que los usuarios deban saber].
-- [Consejos o advertencias adicionales].
-
-## Autor
-- [Nombre del autor]
-- [Correo electrónico]
-
-## Licencia
-Este proyecto está bajo la Licencia [tipo de licencia]. Consulta el archivo [LICENSE.md] para obtener más detalles.
-
-## Agradecimientos
-- Agradecemos a [menciona a personas o recursos que han contribuido o inspirado el laboratorio].
